@@ -1,0 +1,9 @@
+{
+    "domain": "http://localhost:5173",
+    "xpkit": {
+        "account_id": "",
+        "experience_id": "example-experience",
+        "region": "emea.xpkit.net",
+        "user_identifier": "email"
+    }
+}

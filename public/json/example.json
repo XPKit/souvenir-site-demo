@@ -1,0 +1,57 @@
+{
+    "resource": {
+        "results": [
+            {
+                "resource": {
+                    "created": "2023-07-25T01:21:34Z",
+                    "description": "First place trophy",
+                    "experience_id": "example-experience",
+                    "last_modified": "2023-07-25T01:21:34Z",
+                    "moment_ids": [
+                        "bf4fed73-1ce5-4b1a-80a3-2ae774b5edf0"
+                    ],
+                    "name": "First place in the VR game",
+                    "souvenir_data": [],
+                    "type": "image",
+                    "url": "https://xpkit-public-assets.s3.eu-west-1.amazonaws.com/demos/souvenir-image.jpg"
+                },
+                "resource_id": "e0116f25-dbee-474f-8dc7-9f2ea64ed956",
+                "resource_url": "/api/souvenir/e0116f25-dbee-474f-8dc7-9f2ea64ed956/"
+            },
+            {
+                "resource": {
+                    "created": "2023-07-25T01:27:10Z",
+                    "description": "Thanks for visiting video",
+                    "experience_id": "example-experience",
+                    "last_modified": "2023-07-25T01:27:10Z",
+                    "moment_ids": [
+                        "bf4fed73-1ce5-4b1a-80a3-2ae774b5edf0"
+                    ],
+                    "name": "Thanks for visiting video",
+                    "souvenir_data": [],
+                    "type": "video",
+                    "url": "https://xpkit-public-assets.s3.eu-west-1.amazonaws.com/demos/souvenir-video.mp4"
+                },
+                "resource_id": "1206dd39-e024-4eed-bd2b-5432bab1f259",
+                "resource_url": "/api/souvenir/1206dd39-e024-4eed-bd2b-5432bab1f259/"
+            },
+            {
+                "resource": {
+                    "created": "2021-02-05T03:57:21Z",
+                    "description": "See you next year!",
+                    "experience_id": "example-experience",
+                    "last_modified": "2023-07-31T00:44:44Z",
+                    "moment_ids": [
+                        "037a5cd3-032a-4af2-9297-db8df71c6ba6"
+                    ],
+                    "name": "Certificate of attendance",
+                    "souvenir_data": [],
+                    "type": "document",
+                    "url": "https://xpkit-public-assets.s3.eu-west-1.amazonaws.com/demos/souvenir-document.pdf"
+                },
+                "resource_id": "5b3ab25e-37fd-4cb2-b9dc-dc082ae28632",
+                "resource_url": "/api/souvenir/5b3ab25e-37fd-4cb2-b9dc-dc082ae28632/"
+            }
+        ]
+    }
+}
